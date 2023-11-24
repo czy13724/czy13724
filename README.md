@@ -10,4 +10,3 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01HFH23YN9JM370T74W0BJJ06V/orange.svg)](https://badges.toozhao.com/stats/01HFH23YN9JM370T74W0BJJ06V "Get your own page views count badge on badges.toozhao.com")
 
-https://camo.githubusercontent.com/7d26856d1bfdc0dc6dbad3d04ef080c9fbfbb38e2dc87d70ed80a45a5acda4db/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f404e414d45
