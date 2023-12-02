@@ -20,7 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: My GitHub Status
-        uses: czy13724/github-readme-status@main
+        uses: czy13724/czy13724@main
         with:
           # we need set GITHUB_TOKEN
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
