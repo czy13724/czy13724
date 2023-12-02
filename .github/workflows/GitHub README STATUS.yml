@@ -22,7 +22,6 @@ jobs:
       - name: My GitHub Status
         uses: yihong0618/github-readme-stats@main
         with:
-          # we need set GITHUB_TOKEN
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           STARRED_NUM: ${{ env.STARRED_NUM }}
 
