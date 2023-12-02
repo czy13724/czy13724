@@ -1,0 +1,37 @@
+name: GitHub README STATUS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_NAME: czy13724
+  GITHUB_EMAIL: contact@levifree.tech
+  STARRED_NUM: 10
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: My GitHub Status
+        uses: czy13724/github-readme-status@main
+        with:
+          # we need set GITHUB_TOKEN
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # if you also want to send TELE
+          TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
+          STARRED_NUM: ${{ env.STARRED_NUM }}
+
+      - name: Push README
+        run: |
+          git config --local user.email "${{ env.GITHUB_EMAIL }}"
+          git config --local user.name "${{ env.GITHUB_NAME }}"
+          git commit -a -m 'docs: update readme.md' || echo "nothing to commit"
+          git push || echo "nothing to push"
