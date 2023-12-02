@@ -18,5 +18,3 @@ jobs:
         uses: yihong0618/github-readme-stats@main
         with:
           WITH_STARED: false
-          TELEGRAM_TOKEN: ${{ secrets.TELE_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELE_CHAT_ID }}
