@@ -10,6 +10,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czy13724&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Page Views Count](https://badges.toozhao.com/badges/01HFH23YN9JM370T74W0BJJ06V/orange.svg)](https://badges.toozhao.com/stats/01HFH23YN9JM370T74W0BJJ06V "Get your own page views count badge on badges.toozhao.com")
