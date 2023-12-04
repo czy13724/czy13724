@@ -8,17 +8,9 @@
 ![Levi's GitHub status](https://github-readme-stats.vercel.app/api?username=czy13724&show_icons=true&theme=vue&flag-india)|[![Page Views Count](https://badges.toozhao.com/badges/01HFH23YN9JM370T74W0BJJ06V/orange.svg)](https://badges.toozhao.com/stats/01HFH23YN9JM370T74W0BJJ06V "Get your own page views count badge on badges.toozhao.com")
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czy13724&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<figure>
-  <img src="https://github-readme-stats.vercel.app/api?username=czy13724&show_icons=true&theme=vue&flag-india" alt="Levi's GitHub status">
-  <figcaption>
-    <a href="https://badges.toozhao.com/stats/01HFH23YN9JM370T74W0BJJ06V" target="_blank">
-      <img src="https://badges.toozhao.com/badges/01HFH23YN9JM370T74W0BJJ06V/orange.svg" alt="Page Views Count">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czy13724&layout=compact" alt="Top Langs">
-    </a>
-  </figcaption>
-</figure>
+| ![Levi's GitHub status](https://github-readme-stats.vercel.app/api?username=czy13724&show_icons=true&theme=vue&flag-india) | [![Page Views Count](https://badges.toozhao.com/badges/01HFH23YN9JM370T74W0BJJ06V/orange.svg)](https://badges.toozhao.com/stats/01HFH23YN9JM370T74W0BJJ06V "Get your own page views count badge on badges.toozhao.com") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czy13724&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| --- | --- |
+
 
 
 
