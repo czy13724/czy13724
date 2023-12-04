@@ -10,5 +10,4 @@
 
 [![Page Views Count](https://badges.toozhao.com/badges/01HFH23YN9JM370T74W0BJJ06V/orange.svg)](https://badges.toozhao.com/stats/01HFH23YN9JM370T74W0BJJ06V "Get your own page views count badge on badges.toozhao.com")
 
-<!--START_SECTION:my_github-->
-<!--END_SECTION:my_github-->
+![Levi's GitHub status](https://github-readme-stats.vercel.app/api?username=czy13724&show_icons=true&theme=radical)
