@@ -1,4 +1,4 @@
-name: GitHub README STATUS
+name: GitHub README STATS
 
 on:
   workflow_dispatch:
