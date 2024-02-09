@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="left">
 <a href="https://github.com/czy13724">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czy13724&theme=transparent" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czy13724&theme=transparent" height="180em" />
 </div>
 
 
@@ -57,7 +57,7 @@
     </td>
     <!-- Right Cell for Blog Link and Visitor Count -->
     <td valign="top">
-      <h3 align="center">🏷️ <a href="https://levifree.tech" target="_blank">Levi Blog</a></h3>
+      <h3 align="left">🏷️ <a href="https://levifree.tech" target="_blank">Levi Blog</a></h3>
 
 <!-- blog starts -->
 
