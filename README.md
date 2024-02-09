@@ -67,7 +67,6 @@
 
 <div align="center"><img src="https://count.getloli.com/get/@czy13724" alt="Levi" /></div>
 </td>
-```
 
 </tr>
 </table>
