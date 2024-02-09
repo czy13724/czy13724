@@ -36,6 +36,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czy13724&label=Profile%20views&color=0e75b6&style=flat" alt="czy13724" /> </p>
 
+### Pinned repos
+[![Quantumult-X](https://img.shields.io/badge/-Quantumult_X-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Quantumult-X)
+[![Surge](https://img.shields.io/badge/-Surge-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Surge)
+[![LeviIcons](https://img.shields.io/badge/-LeviIcons-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/LeviIcons)
+[![TEST](https://img.shields.io/badge/-TEST-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/TEST)
+[![czy13724.github.io](https://img.shields.io/badge/-czy13724.github.io-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/czy13724.github.io)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -44,9 +51,16 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-### Pinned repos
-[![Quantumult-X](https://img.shields.io/badge/-Quantumult_X-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Quantumult-X)
-[![Surge](https://img.shields.io/badge/-Surge-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Surge)
-[![LeviIcons](https://img.shields.io/badge/-LeviIcons-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/LeviIcons)
-[![TEST](https://img.shields.io/badge/-TEST-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/TEST)
-[![czy13724.github.io](https://img.shields.io/badge/-czy13724.github.io-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/czy13724.github.io)
+### 🏷️ <a href="https://levifree.tech" target="_blank">Levi Blog</a>
+
+<!-- blog starts -->
+* <a href='https://levifree.tech' target='_blank' title='Levi Blog'>你若盛开，清风自来</a> 
+<!-- blog ends -->
+
+<div align="center"><img src="https://count.getloli.com/get/@czy13724" alt="Levi" /></div>
+</td>
+    </tr>
+    </div>
+</table>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
