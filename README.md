@@ -43,24 +43,34 @@
 [![TEST](https://img.shields.io/badge/-TEST-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/TEST)
 [![czy13724.github.io](https://img.shields.io/badge/-czy13724.github.io-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/czy13724.github.io)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-### 🏷️ <a href="https://levifree.tech" target="_blank">Levi Blog</a>
+<table>
+  <tr>
+    <!-- Left Cell for Languages and Tools -->
+    <td valign="top">
+      <h3 align="left">Languages and Tools:</h3>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+      </p>
+    </td>
+    <!-- Right Cell for Blog Link and Visitor Count -->
+    <td valign="top">
+      <h3 align="center">🏷️ <a href="https://levifree.tech" target="_blank">Levi Blog</a></h3>
 
 <!-- blog starts -->
-* <a href='https://levifree.tech' target='_blank' title='Levi Blog'>你若盛开，清风自来</a> 
+
+* <a href='https://levifree.tech' target='_blank' title='Levi Blog'>你若盛开，清风自来</a>
+
 <!-- blog ends -->
 
 <div align="center"><img src="https://count.getloli.com/get/@czy13724" alt="Levi" /></div>
 </td>
-    </tr>
-    </div>
+```
+
+</tr>
 </table>
+
 
 <div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
