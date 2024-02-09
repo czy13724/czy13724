@@ -13,11 +13,35 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czy13724&theme=transparent" height="180em" />
 </div>
 
-[![Quantumult-X](https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Quantumult-X)](https://github.com/czy13724/Quantumult-X)
-[![Surge](https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Surge)](https://github.com/czy13724/Surge)
-[![LeviIcons](https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=LeviIcons)](https://github.com/czy13724/LeviIcons)
-[![TEST](https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=TEST)](https://github.com/czy13724/TEST)
-[![czy13724.github.io](https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=czy13724.github.io)](https://github.com/czy13724/czy13724.github.io)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/czy13724/Quantumult-X">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Quantumult-X" alt="Quantumult-X"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/czy13724/Surge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Surge" alt="Surge"/>
+      </a>
+      <a href="https://github.com/czy13724/LeviIcons">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=LeviIcons" alt="LeviIcons"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/czy13724/TEST">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=TEST" alt="TEST"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/czy13724/czy13724.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=czy13724.github.io" alt="czy13724.github.io"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 </div><h3 align="left">Connect with me:</h3>
