@@ -14,23 +14,23 @@
 </div>
 
 <a href="https://github.com/czy13724/Quantumult-X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Quantumult-X" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Quantumult-X\&show_owner=true" width="400" />
 </a>
 <br/>
 <a href="https://github.com/czy13724/Surge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Surge" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Surge\&show_owner=true" width="400" />
 </a>
 <br/>
 <a href="https://github.com/czy13724/LeviIcons">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=LeviIcons" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=LeviIcons\&show_owner=true" width="400" />
 </a>
 <br/>
 <a href="https://github.com/czy13724/TEST">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=TEST" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=TEST\&show_owner=true" width="400" />
 </a>
 <br/>
 <a href="https://github.com/czy13724/czy13724.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=czy13724.github.io" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=czy13724.github.io\&show_owner=true" width="400" />
 </a>
 
 ###
