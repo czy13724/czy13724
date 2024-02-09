@@ -22,10 +22,6 @@
 </div>
 
 
-| ![Levi's GitHub status](https://github-readme-stats.vercel.app/api?username=czy13724&show_icons=true&theme=vue&flag-india) | [![Page Views Count](https://badges.toozhao.com/badges/01HFH23YN9JM370T74W0BJJ06V/orange.svg)](https://badges.toozhao.com/stats/01HFH23YN9JM370T74W0BJJ06V "Get your own page views count badge on badges.toozhao.com") [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=czy13724&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-| --- | --- |
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czy13724&label=Profile%20views&color=0e75b6&style=flat" alt="czy13724" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czy13724&theme=" alt="czy13724" /></a> </p>
@@ -57,9 +53,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/czy13724">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=czy13724&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=czy13724&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=czy13724&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=czy13724&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=czy13724&theme=transparent" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=czy13724&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=czy13724&theme=transparent" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czy13724&theme=transparent" height="180em" />
 </div>
