@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B9F6&random=false&width=435&lines=%F0%9F%92%99+If+you+like%2C+give+%E2%AD%90%EF%B8%8F+and+share+it)](https://git.io/typing-svg)
 
-<h3 align="left">Stars</h3>
+### Stars
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=czy13724&show_icons=true&locale=en&theme=transparent" alt="czy13724" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Statistics</h3>
@@ -14,8 +14,8 @@
 </div>
 
 
-###
-</div><h3 align="left">Connect with me:</h3>
+### Connect with me:
+
 <div align="left">
   <a href="https://www.youtube.com/channel/UCwm1T5uwxNrkI0JdemXwP_Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
