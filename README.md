@@ -13,25 +13,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=czy13724&theme=transparent" height="180em" />
 </div>
 
-<a href="https://github.com/czy13724/Quantumult-X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Quantumult-X\&show_owner=true" width="400" />
-</a>
-<br/>
-<a href="https://github.com/czy13724/Surge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=Surge\&show_owner=true" width="400" />
-</a>
-<br/>
-<a href="https://github.com/czy13724/LeviIcons">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=LeviIcons\&show_owner=true" width="400" />
-</a>
-<br/>
-<a href="https://github.com/czy13724/TEST">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=TEST\&show_owner=true" width="400" />
-</a>
-<br/>
-<a href="https://github.com/czy13724/czy13724.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=czy13724&repo=czy13724.github.io\&show_owner=true" width="400" />
-</a>
 
 ###
 </div><h3 align="left">Connect with me:</h3>
@@ -62,3 +43,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+### Pinned repos
+[![Quantumult-X](https://img.shields.io/badge/-Quantumult_X-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Quantumult-X)
+[![Surge](https://img.shields.io/badge/-Surge-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Surge)
+[![LeviIcons](https://img.shields.io/badge/-LeviIcons-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/LeviIcons)
+[![TEST](https://img.shields.io/badge/-TEST-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/TEST)
+[![czy13724.github.io](https://img.shields.io/badge/-czy13724.github.io-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/czy13724.github.io)
