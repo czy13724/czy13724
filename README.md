@@ -20,7 +20,7 @@
   <a href="https://www.youtube.com/channel/UCwm1T5uwxNrkI0JdemXwP_Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="mailto:contact@levifree.tech" target="_blank">
+  <a href="mailto:sdakening@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://t.me/i_Levibot" target="_blank">
@@ -57,7 +57,7 @@
     </td>
     <!-- Right Cell for Blog Link and Visitor Count -->
     <td valign="top">
-      <h3 align="left">🏷️ <a href="https://levifree.tech" target="_blank">Levi Blog</a></h3>
+      <h3 align="left">🏷️ <a href="https://blog.levifree.us.kg" target="_blank">Levi Blog</a></h3>
 
 <!-- blog starts -->
 
