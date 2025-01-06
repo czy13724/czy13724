@@ -61,7 +61,7 @@
 
 <!-- blog starts -->
 
-* <a href='https://levifree.tech' target='_blank' title='Levi Blog'>你若盛开，清风自来</a>
+* <a href='https://blog.levifree.us.kg' target='_blank' title='Levi Blog'>你若盛开，清风自来</a>
 
 <!-- blog ends -->
 
