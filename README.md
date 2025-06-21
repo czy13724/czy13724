@@ -37,6 +37,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czy13724&label=Profile%20views&color=0e75b6&style=flat" alt="czy13724" /> </p>
 
 ### Pinned repos
+[![SCript](https://img.shields.io/badge/-TEST-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/SCript)
 [![Quantumult-X](https://img.shields.io/badge/-Quantumult_X-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Quantumult-X)
 [![Surge](https://img.shields.io/badge/-Surge-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/Surge)
 [![LeviIcons](https://img.shields.io/badge/-LeviIcons-555555?style=for-the-badge&logo=github&labelColor=000000)](https://github.com/czy13724/LeviIcons)
@@ -57,11 +58,11 @@
     </td>
     <!-- Right Cell for Blog Link and Visitor Count -->
     <td valign="top">
-      <h3 align="left">🏷️ <a href="https://blog.levifree.us.kg" target="_blank">Levi Blog</a></h3>
+      <h3 align="left">🏷️ <a href="https://blog.levifree.news" target="_blank">Levi Blog</a></h3>
 
 <!-- blog starts -->
 
-* <a href='https://blog.levifree.us.kg' target='_blank' title='Levi Blog'>你若盛开，清风自来</a>
+* <a href='https://blog.levifree.mews' target='_blank' title='Levi Blog'>你若盛开，清风自来</a>
 
 <!-- blog ends -->
 
