@@ -62,7 +62,7 @@
 
 <!-- blog starts -->
 
-* <a href='https://blog.levifree.mews' target='_blank' title='Levi Blog'>你若盛开，清风自来</a>
+* <a href='https://levifree.dpdns.org' target='_blank' title='Levi Blog'>你若盛开，清风自来</a>
 
 <!-- blog ends -->
 
@@ -72,5 +72,8 @@
 </tr>
 </table>
 
+### Support Levi:
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="czy13724" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 <div align="left"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
