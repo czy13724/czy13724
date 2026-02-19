@@ -1,0 +1,5 @@
+{
+  "jd": { "name": "京东", "key": "JD_COOKIE" },
+  "sypm": { "name": "漱玉平民", "key": "sypm_data" },
+  "ltyp": { "name": "联通云盘", "key": "PAN_ACCESS_TOKEN" }
+}
