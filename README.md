@@ -11,7 +11,7 @@
 
   ### 🔗 Contact Levi
 
-  <a href="https://www.youtube.com/channel/UCwm1T5uwxNrkI0JdemXwP_Q" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="70" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@levifree.qzz.io" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="70" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/i_Levibot" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="70" alt="telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/L13724" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" height="70" alt="x" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/czy13724" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="70" alt="github" /></a>
+  <a href="https://www.youtube.com/@DailyCozyVibes_AI" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="70" alt="youtube" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:contact@levifree.qzz.io" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="70" alt="gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/i_Levibot" target="_blank"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="70" alt="telegram" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/L13724" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" height="70" alt="x" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/czy13724" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" height="70" alt="github" /></a>
 
   <br>
 
