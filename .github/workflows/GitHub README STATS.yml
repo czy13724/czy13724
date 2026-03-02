@@ -10,7 +10,7 @@ on:
 
 env:
   GITHUB_NAME: czy13724
-  GITHUB_EMAIL: contact@levifree.tech
+  GITHUB_EMAIL: contact@levifree.qzz.io
   STARRED_NUM: 10
 
 jobs:
