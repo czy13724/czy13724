@@ -22,7 +22,7 @@ jobs:
       - name: My GitHub Status
         uses: yihong0618/github-readme-stats@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_PAT }}
           STARRED_NUM: ${{ env.STARRED_NUM }}
 
       - name: Push README
