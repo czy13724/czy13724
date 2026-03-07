@@ -1,5 +1,6 @@
 {
   "zglt": { "name": "中国联通", "key": "chinaUnicomCookie" },
   "smzdm": { "name": "什么值得买", "key": "SMZDM_COOKIE" },
+  "xmyx": { "name": "星妈优选", "key": "xmyx_data" },
   "sypm": { "name": "漱玉平民", "key": "sypm_data" }
 }
